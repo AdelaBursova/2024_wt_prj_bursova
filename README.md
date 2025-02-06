@@ -11,4 +11,6 @@ Hlavní menu obsahuje odkaz na hlavní stránku, přihlášení/zaregistrování
  ## Wireframes
 
 ![Wireframe](IMG_1303.jpeg)
+
+## schema
 ![Schema](IMG_1477.jpeg)
